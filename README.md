@@ -1,2 +1,2 @@
 # boats-project
-#to start db run docker-copose up
+# to start db run docker-copose up
